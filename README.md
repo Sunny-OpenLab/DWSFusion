@@ -55,7 +55,17 @@ Segmentation results for infrared, visible and fused images from the MSRS datase
 ## 🧷If this work is helpful to you, please cite it as：
 
 ```
-aaa
+@article{QIANG2026113520,
+title = {DWSFusion: Dual weight supervision for lightweight infrared and visible image fusion},
+journal = {Pattern Recognition},
+volume = {179},
+pages = {113520},
+year = {2026},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2026.113520},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320326004863},
+author = {Zhenkai Qiang and Yu Shen and Yubin Yuan and Guanxiang Pei}
+}
 ```
 
 
