@@ -27,11 +27,11 @@ The architecture of the DWSFusion.
 ```pip install -r requirements```
 ### To Train
 Run ```python main.py``` to train your model. The training data is obtained by extracting patches from the images in the MSRS dataset.
-For convenient training, users can download the training dataset from [here](https://pan.baidu.com/s/16qbgI3HK7Y45H0GwZkc8vQ?pwd=Qi42), in which the extraction code is: Qi42.
+For convenient training, users can download the training dataset from [here](https://pan.baidu.com/s/12QHCxLfdkIaKWEEbPqT-2g?pwd=Qi42), in which the extraction code is: Qi42.
 Put this tar file into folder data.
 ### To Test
 Run ```python test.py``` to test the model.  
-M3FD dataset can be downloaded from [M3FD](https://pan.baidu.com/s/1SbqLk2YSAYr_1NKVCIeNsQ?pwd=Qi42), in which the extraction code is: Qi42.  
+M3FD dataset can be downloaded from [M3FD](https://pan.baidu.com/s/1BOD8LnUAU9ymd9E2f4wiBQ?pwd=Qi42), in which the extraction code is: Qi42.  
 Put this tar file into folder data/test_data.
 ### Recommended Environment
 - torch==1.11.0+cu113
